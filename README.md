@@ -11,7 +11,7 @@ It has cards to quiz you on *each* element.
 2. Copy the files within the media folder into your media.collections folder. 
    * See [this section](https://apps.ankiweb.net/docs/manual.html#files) of the Anki manual to find your collections.media folder.
    * On a mac it's in ~/Library/Application Support/Anki2
-   * Only copy the individual files within "media" into "media.collections"
+   * Only copy the individual files within _media_ into _media.collections_.  (I.e., don't drop the whole _media_ folder into _media.collections_)
   
 # Tips
 * Create your deck and fill in the fields ...
