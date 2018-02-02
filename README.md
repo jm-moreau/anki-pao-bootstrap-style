@@ -4,7 +4,7 @@ This is a themed Anki template for memorizing PAO (person, action, objects) list
 It has cards to quiz you on each element, including
 
 # Screenshots
-![Front Card Screenshot](screenshots/pao_1.png "Front") ![Back Card Screenshot](screenshots/pao_2.png "Back")
+![Front Card Screenshot](screenshots/poa_1.png "Front") ![Back Card Screenshot](screenshots/pao_2.png "Back")
 
 # How to install
 1. Import the deck PAO_Bootstrap.apkg
