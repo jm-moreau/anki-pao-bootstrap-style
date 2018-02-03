@@ -1,4 +1,4 @@
-# anki_styles
+# anki-pao-bootstrap-style
 This is a themed Anki template for memorizing PAO (person, action, objects) lists.  It's based on twitter bootstrap.
 
 It has cards to quiz you on *each* element.
