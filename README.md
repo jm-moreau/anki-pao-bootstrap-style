@@ -17,4 +17,4 @@ The cards aim to to follow the [20 rule of formulating knowledge ](https://www.s
 * Create your deck and fill in the fields ...
 * Only put one picture in the "Picture" field.  
 * Pictures with landscape orientation work best.
-* If using memory palace or method of loci (MOL), then (mentally) place and rehearse your palace just before using anki. 
+* If using memory palace or method of loci (MOL), then (mentally) place and rehearse your palace beforehand each time you use anki. 
