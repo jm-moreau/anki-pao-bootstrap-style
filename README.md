@@ -1,7 +1,7 @@
 # anki-pao-bootstrap-style
-This is a themed Anki template for memorizing PAO (person, action, objects) lists.  It's based on twitter bootstrap.
+This is a themed Anki template for memorizing PAO (person, action, objects) lists.  The theme uses twitter bootstrap.
 
-It has cards to quiz you on *each* element.
+The cards aim to to follow the [20 rule of formulating knowledge ](https://www.supermemo.com/en/articles/20rules).  Namely (#4) minimum information principal, (#7) use imagery. They quiz you on the number, each P.A.O. element, the picture and your mnemonic, _separately_. 
 
 # Screenshots
 <img src="screenshots/poa_1.png" width="223" /> <img src="screenshots/pao_2.png" width="224" />
@@ -17,3 +17,4 @@ It has cards to quiz you on *each* element.
 * Create your deck and fill in the fields ...
 * Only put one picture in the "Picture" field.  
 * Pictures with landscape orientation work best.
+* If using memory palace or method of loci (MOL), then (mentally) place and rehearse your palace just before using anki. 
